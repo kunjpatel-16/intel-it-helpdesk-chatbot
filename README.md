@@ -95,4 +95,25 @@ I’ll guide the next step exactly for your screen.
 - Internal IT support for organizations  
 - College or university IT helpdesk  
 - Small & medium businesses  
-- Entry-level IT support automation  
+- Entry-level IT support automation
+---
+
+## 🌟 Creative / Unique Feature
+
+**Smart Issue Suggestion System**  
+The chatbot suggests possible solutions while the user types their problem.  
+This reduces interaction time and improves the overall user experience.
+---
+
+## 🔮 Future Enhancements
+
+- AI / NLP integration  
+- Ticket generation system  
+- User authentication  
+- Admin dashboard & analytics
+---
+
+## 👨‍💻 Author
+
+**Kunj Patel**  
+Intel Opportunity Program – IT Helpdesk Challenge  
