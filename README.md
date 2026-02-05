@@ -41,3 +41,58 @@ intel-it-helpdesk-chatbot/
 │
 └── templates/
     └── index.html
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/intel-it-helpdesk-chatbot.git
+
+2.Go into the project foldercd
+ intel-it-helpdesk-chatbot
+
+3.Install required dependencies
+pip install -r requirements.txt
+
+4.Run the application
+python app.py
+
+
+5.Open your browser and go to
+http://127.0.0.1:5000
+---
+
+### ✅ After pasting
+- Click **Save / Commit changes**
+- Refresh your GitHub repo page
+
+
+---
+
+
+## 🟢 AFTER THAT (tell me when done)
+Your next steps will be:
+➡️ Add **Use Cases**  
+➡️ Add **Creative / Unique Feature**  
+➡️ Create **docs/documentation.md**
+
+
+---
+
+
+### 👍 Quick question (answer only this):
+Are you editing `README.md` on  
+**1️⃣ GitHub website** or **2️⃣ Your computer (VS Code / Notepad)**?
+
+
+I’ll guide the next step exactly for your screen.
+
+---
+
+## 🎯 Use Cases
+
+- Internal IT support for organizations  
+- College or university IT helpdesk  
+- Small & medium businesses  
+- Entry-level IT support automation  
