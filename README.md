@@ -26,3 +26,18 @@ This project was developed as part of the **Intel Opportunity Challenge**, focus
 ---
 
 ## 📂 Project Structure
+intel-it-helpdesk-chatbot/
+│
+├── README.md
+├── app.py
+├── requirements.txt
+│
+├── docs/
+│   └── documentation.md
+│
+├── static/
+│   ├── style.css
+│   └── script.js
+│
+└── templates/
+    └── index.html
